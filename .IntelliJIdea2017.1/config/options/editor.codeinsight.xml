@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
+  </component>
+</application>
