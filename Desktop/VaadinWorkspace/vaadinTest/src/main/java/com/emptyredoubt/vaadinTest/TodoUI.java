@@ -67,7 +67,7 @@ public class TodoUI extends UI {
     }
 
     private void addDeleteButton() {
-        root.addComponent(new Button ("Delete Completed", click -> {
+        root.addComponent(new Button ("Click to delete", click -> {
             todoLayout.deleteCompleted();
         }));
     }
